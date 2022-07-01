@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\_springMVC\CommentdObject\src\main\java\kr\hs\tuydy\dto\DataBean.java"/>
+			<item value="C:\_springMVC\WiewResourcse2\src\main\webapp\WEB-INF\views\index.jsp"/>
 			<item value="C:\a\Second\src\main\java\kr\hs\study\controller\HelloController.java"/>
 			<item value="C:\a\SecondMVC\src\main\resources"/>
 		</list>
@@ -46,14 +48,27 @@
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
 			<item value="kr.hs.study"/>
+			<item value="hs.kr.study"/>
+			<item value="SpringPRJ"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Reqouset"/>
+			<item value="CommentdObject"/>
+			<item value="WiewResourcse2"/>
+			<item value="ViewResourcse2"/>
+			<item value="ViewResourcse"/>
+			<item value="ViewResourse"/>
+			<item value="WiewResourse"/>
+			<item value="ViewResorcse"/>
+			<item value="SpringPRJ"/>
+			<item value="hs.kr.study"/>
+			<item value="getParameter"/>
+			<item value="URLmapping"/>
 			<item value="RequestMapping"/>
 			<item value="Second"/>
 			<item value="SecondMVC"/>
-			<item value="FirstMVC"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
